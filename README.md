@@ -44,40 +44,7 @@ Saber meses mais secos ou chuvosos
 Identificar épocas de frio intenso
 Planejar irrigação
 Planejar plantio e colheita
-Reduzir desperdício de água
-
-
-Valor financeiro desse projeto: 
-
- 
-
-item                                         valor estimado
-
-
-
-custo de produção :                 180~250
-
-
-
-
-
-
-
-valor de venda:                          $ 350~450
-
-
-
-Receitas futuras:
-
-
-
-Venda do kit
-Atualizações de firmware
-Versão PRO com internet (upgrade)
-Modelo escalável por evolução tecnológica.
-
-
-
+Reduzir desperdício de água.
 
 
 Ecossistema ITU-T:   ITU-T define IoT como dispositivos que coletam e processam dados.  
